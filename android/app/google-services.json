@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044188729680",
+    "firebase_url": "https://lawwa-cba77.firebaseio.com",
+    "project_id": "lawwa-cba77",
+    "storage_bucket": "lawwa-cba77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044188729680:android:bbd1f7b8171caa73a2dc55",
+        "android_client_info": {
+          "package_name": "com.example.lawwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044188729680-pfaj8ch4va2f0ev35s94eqc1h9r2f7ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPHTzfywemmu6AAdb0wcoYQQsWHpgG30k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044188729680-pfaj8ch4va2f0ev35s94eqc1h9r2f7ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
